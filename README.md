@@ -1,12 +1,12 @@
 Flipkart TVs Data Scraping And Analysis – EDA Project
 
- Project Overview
+-- Project Overview
 
 This project involves an end-to-end Exploratory Data Analysis (EDA) on television product data collected from Flipkart using web scraping techniques. The primary objective is to analyze the TV market by examining pricing trends, brand distribution, product features, and customer preferences to derive meaningful business insights.
 
 The project demonstrates practical skills in data extraction, data cleaning, visualization, and analytical thinking, making it suitable for Data Analyst and Software Engineer interviews, especially for freshers.
 
- Objectives
+-- Objectives
 
 Collect real-world TV product data using web scraping
 
@@ -30,7 +30,7 @@ Identify market trends and customer behavior
 
 Present insights using effective visualizations
 
- Problem Statement
+-- Problem Statement
 
 E-commerce platforms like Flipkart offer a wide variety of TV models across different brands and price ranges. This creates challenges for understanding:
 
@@ -44,7 +44,7 @@ Relationship between price, features, and ratings
 
 This project aims to solve these challenges through data-driven analysis using web-scraped Flipkart TV data.
 
- Tools & Technologies Used
+-- Tools & Technologies Used
 
 Programming Language: Python
 
@@ -56,7 +56,7 @@ Data Visualization: Matplotlib, Seaborn
 
 Environment: Jupyter Notebook
 
- Dataset Description
+-- Dataset Description
 
 The dataset is created by scraping TV product listings from Flipkart and contains the following attributes:
 
@@ -77,7 +77,7 @@ Number of Reviews
 Product Features (Smart TV, LED, etc.)
 
 
- Project Workflow
+-- Project Workflow
 
 Data Scraping
 
@@ -115,7 +115,7 @@ Insights & Interpretation
 
 Derived actionable business insights from visual trends
 
- Key Insights
+-- Key Insights
 
 Mid-range priced TVs dominate the market
 
@@ -127,7 +127,7 @@ Larger screen sizes are generally priced higher
 
 Customer ratings influence buying behavior
 
- Future Enhancements
+-- Future Enhancements
 
 Automate web scraping for real-time data updates
 
@@ -137,7 +137,7 @@ Perform sentiment analysis on customer reviews
 
 Compare TV market data across multiple e-commerce platforms
 
- Skills Demonstrated
+-- Skills Demonstrated
 
 Web scraping with Python
 
@@ -149,7 +149,7 @@ Data visualization and storytelling
 
 Analytical and problem-solving skills
 
- Author
+-- Author
 
 LOLABHATTU S S A BHUJANGA RAJU
 Aspiring Data Analyst | Python | EDA | Web Scraping
