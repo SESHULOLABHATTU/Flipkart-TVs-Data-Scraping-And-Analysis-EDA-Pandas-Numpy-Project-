@@ -79,41 +79,41 @@ Product Features (Smart TV, LED, etc.)
 
 -- Project Workflow
 
-Data Scraping
+- Data Scraping
 
-Extracted TV product data from Flipkart using HTTP requests
+  Extracted TV product data from Flipkart using HTTP requests
 
-Parsed HTML content with BeautifulSoup
+  Parsed HTML content with BeautifulSoup
 
-Data Cleaning & Preprocessing
+- Data Cleaning & Preprocessing
 
-Removed duplicates and irrelevant records
+  Removed duplicates and irrelevant records
 
-Handled missing and inconsistent values
+  Handled missing and inconsistent values
 
-Converted price, rating, and screen size into numerical formats
+  Converted price, rating, and screen size into numerical formats
 
-Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis (EDA)
 
-Brand-wise market analysis
+  Brand-wise market analysis
 
-Price distribution and segmentation
+  Price distribution and segmentation
 
-Feature-based analysis (Smart TV vs Non-Smart TV)
+  Feature-based analysis (Smart TV vs Non-Smart TV)
 
-Ratings and reviews impact analysis
+  Ratings and reviews impact analysis
 
-Data Visualization
+- Data Visualization
 
-Histograms for price distribution
+  Histograms for price distribution
 
-Bar charts for brand and feature comparison
+  Bar charts for brand and feature comparison
 
-Box plots for price and screen size analysis
+  Box plots for price and screen size analysis
 
-Insights & Interpretation
+- Insights & Interpretation
 
-Derived actionable business insights from visual trends
+  Derived actionable business insights from visual trends
 
 -- Key Insights
 
